@@ -74,3 +74,12 @@ html{
 .row{
   color: white;
 }
+
+.irc_mi{
+    margin-top: -20px;
+}
+
+#rsvp{
+    text-align: center;
+    font-size: 2.4em;
+}
